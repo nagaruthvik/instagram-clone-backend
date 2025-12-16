@@ -1,4 +1,4 @@
-import userData from "../models/userData.js";
+import userData from "../models/userdata.js";
 
 import bcrypt from "bcrypt"
 import express from "express";
